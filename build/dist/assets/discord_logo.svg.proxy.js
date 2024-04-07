@@ -1,0 +1,1 @@
+export default "/dist/assets/discord_logo.svg";

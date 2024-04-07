@@ -1,0 +1,1 @@
+export default "/dist/assets/no_online_friends.svg";

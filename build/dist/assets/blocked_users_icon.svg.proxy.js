@@ -1,0 +1,1 @@
+export default "/dist/assets/blocked_users_icon.svg";

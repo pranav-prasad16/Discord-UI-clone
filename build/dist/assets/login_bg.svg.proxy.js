@@ -1,0 +1,1 @@
+export default "/dist/assets/login_bg.svg";

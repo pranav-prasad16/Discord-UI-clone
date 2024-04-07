@@ -1,0 +1,1 @@
+export default "/dist/assets/hanging_out_easy_landing.svg";

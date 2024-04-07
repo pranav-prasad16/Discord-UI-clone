@@ -1,0 +1,1 @@
+export default "/dist/assets/right_bg_landing_header.svg";

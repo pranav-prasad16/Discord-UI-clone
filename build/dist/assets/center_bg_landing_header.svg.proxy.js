@@ -1,0 +1,1 @@
+export default "/dist/assets/center_bg_landing_header.svg";

@@ -1,0 +1,1 @@
+export default "/dist/assets/just_chiling_landing.svg";

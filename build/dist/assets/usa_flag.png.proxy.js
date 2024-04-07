@@ -1,0 +1,1 @@
+export default "/dist/assets/usa_flag.png";

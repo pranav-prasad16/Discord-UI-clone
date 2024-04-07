@@ -1,0 +1,1 @@
+export default "/dist/assets/invite_only_landing.svg";

@@ -1,0 +1,1 @@
+export default "/dist/assets/pending_users_icon.svg";

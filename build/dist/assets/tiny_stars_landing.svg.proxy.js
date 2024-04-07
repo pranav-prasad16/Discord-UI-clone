@@ -1,0 +1,1 @@
+export default "/dist/assets/tiny_stars_landing.svg";
